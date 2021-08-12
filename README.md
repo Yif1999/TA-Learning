@@ -24,6 +24,10 @@
 
   ![image811](Unity/L05/Pics/2021-08-11%2010-23-20%2000_00_00-00_00_08.gif)
 
+- [L06](Unity/L06)——经典光照模型实例
+
+  ![dota2-windrunner](Unity/L06/Pics/Snipaste_2021-08-12_18-25-56.png)
+
 - [P01](./Unity/P01)——仿原神消隐效果
 
   ![genshin810](Unity/P01/Pics/2021-08-10-21-15-27.gif)
