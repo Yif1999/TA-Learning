@@ -28,6 +28,14 @@
 
   ![dota2-windrunner](Unity/L06/Pics/Snipaste_2021-08-12_18-25-56.png)
 
+- [L07](Unity/L07)——AlphaCut、AlphaBlend与AlphaAdd
+
+  ![alpha813](Unity/L07/Pics/Snipaste_2021-08-13_15-59-06.png)
+
+- [L08](Unity/L08)——水与火特效
+
+  ![water&fire](Unity/L08/Pics/2021-08-13%2021-39-00.gif)
+
 - [P01](./Unity/P01)——仿原神消隐效果
 
   ![genshin810](Unity/P01/Pics/2021-08-10-21-15-27.gif)
