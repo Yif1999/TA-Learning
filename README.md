@@ -2,6 +2,8 @@
 
 正在走技术美术学习路线，在此建仓记录，持续更新。
 
+> L系列为教程练习，P系列为创新练习。
+
 ## Unity
 
 - [L01](./Unity/L01)——Lembert卡渲
@@ -54,5 +56,7 @@
 
 ## Houdini
 
-计划中，暂无。
+- [L01](Houdini/L01)——IceGrowth冰生长
+
+  ![iceGrowth](Houdini/L01/Pics/ice_growth.mantra1.gif)
 
