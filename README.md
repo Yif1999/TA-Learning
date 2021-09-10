@@ -8,19 +8,19 @@
 
 - [L01](./Unity/L01)——Lembert卡渲
 
-  ![image-20210809214549029](Unity/L01/Pics/image-20210809214549029.png)
+  ![lambert](Unity/L01/Pics/image-20210809214549029.png)
 
 - [L02](./Unity/L02)——Phong与Bilinn-Phong
 
-  ![image-20210809215715099](Unity/L02/Pics/image-20210809215715099.png)
+  ![phong](Unity/L02/Pics/image-20210809215715099.png)
 
 - [L03](./Unity/L03)——环境吸收与投影
 
-  ![image-20210809220010907](Unity/L03/Pics/image-20210809220010907.png)
+  ![ao&shadow](Unity/L03/Pics/image-20210809220010907.png)
   
 - [L04](./Unity/L04)——法线贴图
 
-  ![image-20210809230330461](Unity/L04/Pics/image-20210809230330461.png)
+  ![normalMap](Unity/L04/Pics/image-20210809230330461.png)
   
 - [L05](./Unity/L05)——CubeMap与MatCap
 
@@ -59,4 +59,7 @@
 - [L01](Houdini/L01)——IceGrowth冰生长
 
   ![iceGrowth](Houdini/L01/Pics/ice_growth.mantra1.gif)
+  
+- [L02](Houdini/L02)——阴影拼图
 
+  ![sahdowArt](Houdini/L02/Pics/zju.png)
