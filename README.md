@@ -60,6 +60,6 @@
 
   ![iceGrowth](Houdini/L01/Pics/ice_growth.mantra1.gif)
   
-- [L02](Houdini/L02)——阴影拼图
+- [P01](Houdini/L02)——阴影拼图
 
   ![sahdowArt](Houdini/L02/Pics/zju.png)
