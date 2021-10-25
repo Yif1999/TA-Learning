@@ -98,6 +98,11 @@ CubeMap是一个立方体的六面展开图，让人惊奇的是（或者让人�
 
 ![GI](Unity/P02/Pics/GI+AO.png)
 
+### [John Lemon's Haunted Jaunt](Unity/L12)
+
+这是Unity官方的3D项目入门教程，玩了这么久Shader发现还没有经历过游戏的全流程开发，总感觉缺了点什么，特此体验，以后也多上上手。（最近开始忙毕设了，估计要停更好一段时间了。）
+
+![JLHJ](Unity/L12/Pics/game.png)
 
 ## Houdini
 
@@ -114,4 +119,3 @@ Houdini作为影视游戏行业的老大哥软件还是值得学一学的，尤�
 有时候富有创意的效果只需要用到最最基础的几何关系，至于是怎么做的……对，没错就是你脑子里想的那样。
 
 ![sahdowArt](Houdini/L02/Pics/zju.png)
-
