@@ -122,7 +122,7 @@ CubeMap是一个立方体的六面展开图，让人惊奇的是（或者让人�
 
 性能优化总是玩家讨论时绕不开的话题，另外优化本身也很有意思，正好Unity课堂中有关于性能优化的课程索性学了起来。
 
-<img src="Performance_Optimization/Pics/image-20221008162234782.png" alt="image-20221008162234782"  />
+<img src="performance_optimization/Pics/image-20221008162234782.png" alt="image-20221008162234782"  />
 
 这里是优化最开始的截图，优化后帧率已经大幅提升。实战相关笔记文章发布在了b站专栏，可以点标题访问。
 
